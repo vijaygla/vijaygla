@@ -12,10 +12,10 @@ I am a highly motivated and ambitious professional with a strong passion for web
 Let's connect and create something amazing together! 🤝
 
 ## 🌱 Currently Learning
-- Full Stack Web Development JAVA Programming 💻
+- JAVA Programming 💻
 
 ## 🤝 Looking to Collaborate On
-- FullStack Development Java Programming 🔥
+- FullStack Development 🔥
 
 ## 💬 Ask Me About
 - Programming  
@@ -23,7 +23,9 @@ Let's connect and create something amazing together! 🤝
 
 ## 📩 Let's Connect
 **Email:** [vijaykumarmganj1@gmail.com](mailto:vijaykumarmganj1@gmail.com) ✉️  
-**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/vijaykumarmganj1/) 🌐  
+**Resume:** [View Here](https://drive.google.com/file/d/1wb0Txcwm1Fi8DACG1oBVBQ8gF4hcUNkd/view?usp=drive_link) 📝  
+**Portfolio:** [Check It Out](https://vijayportfoliomganj1.netlify.app/) 
+🔗 **GitHub:** [github.com/vijaykumar](https://github.com/vijaykumar) 🖥️  
 **Contact Number:** +91 7763949572 📞
 
 ## ⚡ Fun Fact
@@ -52,3 +54,11 @@ I embrace failures as stepping stones to success and always come back stronger! 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+MongoDB  
+
+## 📊 GitHub Stats
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaygla&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygla&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
