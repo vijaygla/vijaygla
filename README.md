@@ -4,24 +4,22 @@
 
 🎓 MERN Developer | 💡 Java Developer | 🔍 Tech Enthusiast
 
-I am a dedicated and ambitious individual, passionate about web development and programming 💻. With expertise in both MERN stack and Java, I am always looking to create innovative solutions and improve my skills 📚.
+I am a highly motivated and ambitious professional with a strong passion for web development and programming 💻. With expertise in the MERN stack and Java, I constantly seek to innovate and refine my skills 📚.
 
-## 🚀 What Drives Me?
-✅ Continuously learning to stay ahead in the ever-evolving tech world 🔄  
-✅ Developing impactful solutions through creativity and collaboration 🌟  
-✅ Tackling challenges as opportunities for growth and success 🏆  
+🚀 My Driving Forces
+✅ Committed to continuous learning to stay at the forefront of technological advancements 🔄 ✅ Focused on developing impactful solutions through creativity and teamwork 🌟 ✅ Embracing challenges as opportunities for growth and achievement 🏆
 
 Let's connect and create something amazing together! 🤝
 
 ## 🌱 Currently Learning
-- Full Stack Web Development 💻
+- Full Stack Web Development JAVA Programming 💻
 
 ## 🤝 Looking to Collaborate On
-- Java & Backend Development 🔥
+- FullStack Development Java Programming 🔥
 
 ## 💬 Ask Me About
 - Programming  
-- Cloud Computing 📊  
+- Full Stack Web Developer
 
 ## 📩 Let's Connect
 **Email:** [vijaykumarmganj1@gmail.com](mailto:vijaykumarmganj1@gmail.com) ✉️  
@@ -38,16 +36,12 @@ I embrace failures as stepping stones to success and always come back stronger! 
 - Java  
 - JavaScript  
 - Python  
-- AWS  
 - Netlify  
 - Bootstrap  
 - React  
 - Redux  
-- NodeJS  
+- NodeJS
+- Express ja
 - TailwindCSS  
 - MySQL  
 - MongoDB  
-
-## 📊 GitHub Stats
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaykumarmganj1&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykumarmganj1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
