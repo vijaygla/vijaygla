@@ -22,10 +22,10 @@ Let's connect and create something amazing together! 🤝
 - Full Stack Web Developer
 
 ## 📩 Let's Connect
-**Email:** [vijaykumarmganj1@gmail.com](mailto:vijaykumarmganj1@gmail.com) ✉️  
 **Resume:** [View Here](https://drive.google.com/file/d/1wb0Txcwm1Fi8DACG1oBVBQ8gF4hcUNkd/view?usp=drive_link) 📝  
-**Portfolio:** [Check It Out](https://vijayportfoliomganj1.netlify.app/) 
-🔗 **GitHub:** [github.com/vijaykumar](https://github.com/vijaykumar) 🖥️  
+**Portfolio:** [Check It Out](https://vijayportfoliomganj1.netlify.app/)
+🔗 **GitHub:** [github.com/vijaykumar](https://github.com/vijaygla) 🖥️  
+**Email:** [vijaykumarmganj1@gmail.com](mailto:vijaykumarmganj1@gmail.com) ✉️ 
 **Contact Number:** +91 7763949572 📞
 
 ## ⚡ Fun Fact
