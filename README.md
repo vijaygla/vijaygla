@@ -21,12 +21,17 @@ Let's connect and create something amazing together! 🤝
 - Programming  
 - Full Stack Web Developer
 
-## 📩 Let's Connect
+## 📩 Let's Connect  
 **Resume:** [View Here](https://drive.google.com/file/d/1wb0Txcwm1Fi8DACG1oBVBQ8gF4hcUNkd/view?usp=drive_link) 📝  
 **Portfolio:** [Check It Out](https://vijayportfoliomganj1.netlify.app/) 🔗  
 **GitHub:** [github.com/vijaygla](https://github.com/vijaygla) 🖥️  
 **Email:** [vijaykumarmganj1@gmail.com](mailto:vijaykumarmganj1@gmail.com) ✉️  
 **Contact Number:** +91 7763949572 📞  
+
+### 🌐 Netlify Profile  
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)  
+[Visit My Netlify Profile](https://app.netlify.com/teams/vijaykumarmganj1/sites)  
+
 
 ## ⚡ Fun Fact
 I embrace failures as stepping stones to success and always come back stronger! 🔥💪
