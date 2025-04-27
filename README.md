@@ -15,11 +15,11 @@ Let's connect and create something amazing together! 🤝
 - JAVA Programming 💻
 
 ## 🤝 Looking to Collaborate On
-- FullStack Development 🔥
+- Mern Development 🔥
 
 ## 💬 Ask Me About
 - Programming  
-- Full Stack Web Developer
+- Mern Stack Web Developer
 
 ## 📩 Let's Connect  
 **Resume:** [View Here](https://drive.google.com/file/d/1wb0Txcwm1Fi8DACG1oBVBQ8gF4hcUNkd/view?usp=drive_link) 📝  
