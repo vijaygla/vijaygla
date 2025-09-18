@@ -22,7 +22,7 @@ Let's connect and create something amazing together! 🤝
 - Mern Stack Web Developer
 
 ## 📩 Let's Connect  
-**Resume:** [View Here](https://drive.google.com/file/d/1wb0Txcwm1Fi8DACG1oBVBQ8gF4hcUNkd/view?usp=drive_link) 📝  
+**Resume:** [View Here]([https://drive.google.com/file/d/1wb0Txcwm1Fi8DACG1oBVBQ8gF4hcUNkd/view?usp=drive_link](https://pdflink.to/8898430f/)) 📝  
 **Portfolio:** [Check It Out](https://vijaygla-portfolio.netlify.app/) 🔗  
 **GitHub:** [github.com/vijaygla](https://github.com/vijaygla) 🖥️  
 **Email:** [vijaykumarmganj1@gmail.com](mailto:vijaykumarmganj1@gmail.com) ✉️  
