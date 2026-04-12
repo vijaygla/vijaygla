@@ -25,7 +25,7 @@ Let's connect and create something amazing together! 🤝
 **Resume:** [View Here](https://pdflink.to/8898430f/) 📝
 **Portfolio:** [Check It Out](https://vijaygla-portfolio.netlify.app/) 🔗  
 **GitHub:** [github.com/vijaygla](https://github.com/vijaygla) 🖥️  
-**Email:** [vijaykumarmganj1@gmail.com](mailto:vijaykumarmganj1@gmail.com) ✉️  
+**Email:** [pmdhrs@gmail.com](mailto:pmdhrs@gmail.com) ✉️  
 **Contact Number:** +91 7763949572 📞  
 
 ### 🌐 Netlify Profile  
@@ -37,9 +37,8 @@ Let's connect and create something amazing together! 🤝
 I embrace failures as stepping stones to success and always come back stronger! 🔥💪
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaykumarmganj1/)
-[![X](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vijaykumarmgani)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaykumarmganj1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaygla/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmdhrs@gmail.com)
 
 
 ---
@@ -67,4 +66,3 @@ MongoDB
 ## 📊 GitHub Stats
 ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaygla&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygla&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
