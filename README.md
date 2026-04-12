@@ -30,7 +30,7 @@ Let's connect and create something amazing together! 🤝
 
 ### 🌐 Netlify Profile  
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)  
-[Visit My Netlify Profile](https://app.netlify.com/teams/vijaykumarmganj1/sites)  
+[Visit My Netlify Profile](https://app.netlify.com/teams/vijaykumargla/sites)  
 
 
 ## ⚡ Fun Fact
