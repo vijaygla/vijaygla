@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vijay+Kumar+%F0%9F%91%8B;Software+Engineer; .NET+%7C+AI%2FML+%7C+Azure;Building+scalable+and+intelligent+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vijay+Kumar+%F0%9F%91%8B;Software+Engineer;Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijaygla&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vijaygla&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/vijaygla?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-.NET%20%7C%20AI%20%7C%20Azure-5C2D91?style=flat-square&logo=microsoft" alt="Focus" />
+  <img src="https://img.shields.io/badge/Role-Software%20Developer%20%40%20Capgemini-4B0082?style=flat-square" alt="Role" />
 </p>
 
 <div align="center">
@@ -17,11 +18,19 @@
 
 </div>
 
-🚀 Hi, I'm Vijay Kumar — a passionate Software Engineer currently working at Capgemini, with strong focus on .NET, Azure, and AI-powered software solutions.
+<h2 align="center">🚀 Software Engineer | .NET | Azure | AI</h2>
 
-I enjoy building scalable, secure, and user-friendly applications while solving real-world problems through technology. My work blends backend engineering, enterprise application development, and modern AI/ML integrations including RAG, LLM workflows, and cloud-native solutions.
+<p align="center">
+  Hi, I'm <strong>Vijay Kumar</strong> — a passionate Software Engineer currently working at Capgemini, with a strong focus on <strong>.NET</strong>, <strong>Azure</strong>, and <strong>AI-powered</strong> software solutions.
+</p>
 
-## About Me
+<p align="center">
+  I enjoy building scalable, secure, and user-friendly applications while solving real-world problems through technology. My work blends backend engineering, enterprise application development, and the power of modern AI systems.
+</p>
+
+---
+
+## 🌟 Highlights
 
 - 💼 Software Developer at Capgemini
 - 🌐 Full Stack Developer with strong interest in web and enterprise applications
@@ -31,7 +40,21 @@ I enjoy building scalable, secure, and user-friendly applications while solving 
 - 🤖 Passionate about AI/ML, Azure AI, LLMs, RAG, LangChain, and intelligent automation
 - ⚙️ Interested in building cloud-native, scalable, and production-ready systems
 
-## Core Skills
+---
+
+## 🧠 About Me
+
+- 💼 Software Developer at Capgemini
+- 🌐 Full Stack Developer with strong interest in web and enterprise applications
+- ☕ Java, .NET, and MERN stack enthusiast
+- 🧠 Problem solver with a love for continuous learning
+- 📈 Focused on creating impactful, maintainable, and efficient software
+- 🤖 Passionate about AI/ML, Azure AI, LLMs, RAG, LangChain, and intelligent automation
+- ⚙️ Interested in building cloud-native, scalable, and production-ready systems
+
+---
+
+## 🛠️ Core Skills
 
 ### Frontend
 - HTML5
@@ -110,7 +133,9 @@ I enjoy building scalable, secure, and user-friendly applications while solving 
 - GitHub Actions
 - Swagger / OpenAPI
 
-## Tech Stack
+---
+
+## ⚙️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-%239A4993.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -137,7 +162,9 @@ I enjoy building scalable, secure, and user-friendly applications while solving 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Current Focus
+---
+
+## 🚀 Current Focus
 
 - 🔧 Building efficient, scalable, and cloud-ready web and enterprise solutions
 - ☕ Strengthening Java and Spring Boot expertise
@@ -146,7 +173,9 @@ I enjoy building scalable, secure, and user-friendly applications while solving 
 - 🧠 Building intelligent systems using Azure AI, LLMs, RAG, and AI orchestration
 - 📚 Learning modern development practices, cloud-native architecture, and machine learning workflows
 
-## Looking to Collaborate On
+---
+
+## 🤝 Looking to Collaborate On
 
 - Full-stack web application development
 - MERN stack projects
@@ -157,7 +186,24 @@ I enjoy building scalable, secure, and user-friendly applications while solving 
 - API development and integrations
 - Real-world software solutions
 
-## Let's Connect
+---
+
+## 🧩 What I Build
+
+<div align="center">
+
+| Domain | Focus |
+|--------|-------|
+| Enterprise Applications | Scalable backend systems and integrations |
+| Cloud Solutions | Azure-powered apps, deployment, and automation |
+| AI & GenAI | LLMs, RAG, AI agents, semantic search |
+| Full-Stack Products | Modern UI + enterprise backend |
+
+</div>
+
+---
+
+## 📫 Let's Connect
 
 - 💼 Portfolio: [View Here](https://vijaygla-portfolio.netlify.app/)
 - 🐙 GitHub: [github.com/vijaygla](https://github.com/vijaygla)
@@ -165,24 +211,44 @@ I enjoy building scalable, secure, and user-friendly applications while solving 
 - 📧 Email: [pmdhrs@gmail.com](mailto:pmdhrs@gmail.com)
 - 📞 Phone: +91 7763949572
 
-## GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaygla&show_icons=true&theme=radical)
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaygla&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygla&layout=compact&theme=radical)](https://github.com/vijaygla)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygla&layout=compact&theme=radical&hide_border=true)](https://github.com/vijaygla)
 
 </div>
 
-## Fun Fact
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijaygla&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Philosophy
+
+> "Code is not just logic; it is creativity, persistence, and problem-solving in action."
+
+> "Building scalable systems, intelligent workflows, and meaningful digital experiences with .NET, Azure, and AI."
+
+---
+
+## ✨ Fun Fact
 
 I believe every challenge is a step toward growth, and every failure is a lesson that builds stronger skills and better solutions. 💪
 
 ---
 
-> "Code is not just logic; it is creativity, persistence, and problem-solving in action."
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-FF69B4?style=for-the-badge" alt="Made with love" />
+</p>
 
----
-
-> "Building scalable systems, intelligent workflows, and meaningful digital experiences with .NET, Azure, and AI."
+<p align="center">
+  <i>Driven by learning, building, and solving real-world problems through technology.</i>
+</p>
