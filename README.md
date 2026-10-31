@@ -1,68 +1,118 @@
 # Vijay Kumar
 
-🚀 Hi Everyone! I'm Vijay Kumar ✨
+<div align="center">
 
-🎓 MERN Developer | 💡 Java Developer | 🔍 Tech Enthusiast
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://vijaygla-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaygla/)
+[![Email](https://img.shields.io/badge/Email-pmdhrs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmdhrs@gmail.com)
+[![Capgemini](https://img.shields.io/badge/Role-Software%20Developer%20%40%20Capgemini-4B0082?style=for-the-badge)](https://www.capgemini.com/)
 
-I am a highly motivated and ambitious professional with a strong passion for web development and programming 💻. With expertise in the MERN stack and Java, I constantly seek to innovate and refine my skills 📚.
+</div>
 
-🚀 My Driving Forces
-✅ Committed to continuous learning to stay at the forefront of technological advancements 🔄 ✅ Focused on developing impactful solutions through creativity and teamwork 🌟 ✅ Embracing challenges as opportunities for growth and achievement 🏆
+🚀 Hi, I'm Vijay Kumar — a passionate Software Developer currently working at Capgemini.
 
-Let's connect and create something amazing together! 🤝
+I enjoy building scalable, user-friendly applications and solving real-world problems through technology. My core focus is on full-stack development, backend engineering, and creating clean, efficient solutions.
 
-## 🌱 Currently Learning
-- JAVA Programming 💻
+## About Me
 
-## 🤝 Looking to Collaborate On
-- Mern Development 🔥
+- 💼 Software Developer at Capgemini
+- 🌐 Full Stack Developer with strong interest in web applications
+- ☕ Java and MERN stack enthusiast
+- 🧠 Problem solver with a love for continuous learning
+- 📈 Focused on creating impactful, maintainable, and efficient software
 
-## 💬 Ask Me About
-- Programming  
-- Mern Stack Web Developer
+## Core Skills
 
-## 📩 Let's Connect  
-**Resume:** [View Here](https://pdflink.to/8898430f/) 📝
-**Portfolio:** [Check It Out](https://vijaygla-portfolio.netlify.app/) 🔗  
-**GitHub:** [github.com/vijaygla](https://github.com/vijaygla) 🖥️  
-**Email:** [pmdhrs@gmail.com](mailto:pmdhrs@gmail.com) ✉️  
-**Contact Number:** +91 7763949572 📞  
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Redux
+- Bootstrap
+- Tailwind CSS
 
-### 🌐 Netlify Profile  
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)  
-[Visit My Netlify Profile](https://app.netlify.com/teams/vijaykumargla/sites)  
+### Backend
+- Java
+- Spring Boot
+- Node.js
+- Express.js
+- REST APIs
 
+### Database & Storage
+- MySQL
+- MongoDB
+- SQL
 
-## ⚡ Fun Fact
-I embrace failures as stepping stones to success and always come back stronger! 🔥💪
+### Programming Languages
+- Java
+- JavaScript
+- C
+- Python
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaygla/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmdhrs@gmail.com)
+### Tools & Platforms
+- Git & GitHub
+- Postman
+- Netlify
+- VS Code
+- IntelliJ IDEA
 
+## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Current Focus
+
+- 🔧 Building efficient and scalable web solutions
+- ☕ Strengthening Java and Spring Boot expertise
+- ⚙️ Improving backend architecture and REST API design
+- 📚 Learning modern development practices and cloud concepts
+
+## Looking to Collaborate On
+
+- Full-stack web application development
+- MERN stack projects
+- Java-based backend projects
+- API development and integrations
+- Real-world software solutions
+
+## Let's Connect
+
+- 💼 Portfolio: [View Here](https://vijaygla-portfolio.netlify.app/)
+- 🐙 GitHub: [github.com/vijaygla](https://github.com/vijaygla)
+- 💼 LinkedIn: [linkedin.com/in/vijaygla](https://www.linkedin.com/in/vijaygla/)
+- 📧 Email: [pmdhrs@gmail.com](mailto:pmdhrs@gmail.com)
+- 📞 Phone: +91 7763949572
+
+## GitHub Stats
+
+<div align="center">
+
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaygla&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygla&layout=compact&theme=radical)](https://github.com/vijaygla)
+
+</div>
+
+## Fun Fact
+
+I believe every challenge is a step toward growth, and every failure is a lesson that builds stronger skills and better solutions. 💪
 
 ---
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-MongoDB  
-
-## 📊 GitHub Stats
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaygla&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygla&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+> "Code is not just logic; it is creativity, persistence, and problem-solving in action." 
